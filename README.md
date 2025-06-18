@@ -14,7 +14,7 @@
 <div style="margin: 20px 0;">
   <img src="https://komarev.com/ghpvc/?username=jagadeshchilla&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/jagadeshchilla?style=for-the-badge&color=0e75b6&labelColor=1c1917" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/jagadeshchilla?style=for-the-badge&color=0e75b6&labelColor=1c1917" alt="Stars" />
+  <img src="https://img.shields.io/github/stars/jagadeshchilla?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=0e75b6&labelColor=1c1917" alt="Stars" />
   <img src="https://img.shields.io/badge/Focus-Generative%20AI-brightgreen?style=for-the-badge&logo=openai&logoColor=white" />
 </div>
 
@@ -248,17 +248,17 @@ mindmap
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jagadeshchilla&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&border_radius=10" alt="GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jagadeshchilla&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&border_radius=10&cache_seconds=86400" alt="GitHub Stats" /> 
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagadeshchilla&layout=compact&hide_border=true&title_color=00D9FF&text_color=00D9FF&bg_color=0d1117&border_radius=10" alt="Top Languages" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagadeshchilla&layout=compact&hide_border=true&title_color=00D9FF&text_color=00D9FF&bg_color=0d1117&border_radius=10&langs_count=8&cache_seconds=86400" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jagadeshchilla&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jagadeshchilla&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff" width="100%">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jagadeshchilla&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jagadeshchilla&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=00D9FF&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
 </div>
 
 ---
