@@ -147,6 +147,10 @@ mindmap
   
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-1FB6FF?style=for-the-badge&logo=perplexity&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-FF6B35?style=for-the-badge&logo=deepseek&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
@@ -188,12 +192,7 @@ mindmap
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apache-hive&logoColor=black)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Informatica](https://img.shields.io/badge/Informatica-FF6C37?style=for-the-badge&logo=informatica&logoColor=white)
-![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=apache-flink&logoColor=white)
-![Apache Storm](https://img.shields.io/badge/Apache%20Storm-4B9CD3?style=for-the-badge&logo=apache-storm&logoColor=white)
-![Elastic Stack](https://img.shields.io/badge/Elastic%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
 
 </div>
 
@@ -203,9 +202,7 @@ mindmap
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
 </div>
 
@@ -217,7 +214,29 @@ mindmap
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+
+</div>
+
+### 🔄 MLOps & Data Engineering
+<div align="center">
+
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Kubeflow](https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge&logo=kubeflow&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/Weights%20&%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+![Neptune](https://img.shields.io/badge/Neptune-1E88E5?style=for-the-badge&logo=neptune&logoColor=white)
+![ClearML](https://img.shields.io/badge/ClearML-009688?style=for-the-badge&logo=clearml&logoColor=white)
+![Prefect](https://img.shields.io/badge/Prefect-024DFD?style=for-the-badge&logo=prefect&logoColor=white)
+![DagHub](https://img.shields.io/badge/DagHub-FF6B6B?style=for-the-badge&logo=github&logoColor=white)
+![Astronomer](https://img.shields.io/badge/Astronomer-FF6B35?style=for-the-badge&logo=astronomer&logoColor=white)
+![Feast](https://img.shields.io/badge/Feast-FF6B35?style=for-the-badge&logo=feast&logoColor=white)
+![Great Expectations](https://img.shields.io/badge/Great%20Expectations-FF6B6B?style=for-the-badge&logo=greatexpectations&logoColor=white)
+![Evidently](https://img.shields.io/badge/Evidently-4CAF50?style=for-the-badge&logo=evidently&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-2560E0?style=for-the-badge&logo=azure-pipelines&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 </div>
 
@@ -235,9 +254,7 @@ mindmap
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -263,127 +280,13 @@ mindmap
 
 ---
 
-<h2 align="center">🎯 Featured Projects</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🤖 LLM Fine-tuning Framework</h3>
-        <div align="center">
-          <a href="#" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=jagadeshchilla&repo=llm-finetuning&theme=tokyonight&hide_border=true" width="100%" alt="LLM Fine-tuning"/>
-          </a>
-          <br>
-          <p><strong>🔧 LLaMA | LoRA | PEFT | Transformers</strong></p>
-          <p>Advanced framework for fine-tuning large language models with parameter-efficient techniques.</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">🧠 Multi-Agent AI System</h3>
-        <div align="center">
-          <a href="#" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=jagadeshchilla&repo=multi-agent-ai&theme=tokyonight&hide_border=true" width="100%" alt="Multi-Agent AI"/>
-          </a>
-          <br>
-          <p><strong>🤝 LangChain | CrewAI | AutoGen</strong></p>
-          <p>Sophisticated multi-agent system for collaborative AI problem-solving and task automation.</p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">📊 Real-time Analytics Pipeline</h3>
-        <div align="center">
-          <a href="#" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=jagadeshchilla&repo=realtime-analytics&theme=tokyonight&hide_border=true" width="100%" alt="Analytics Pipeline"/>
-          </a>
-          <br>
-          <p><strong>⚡ Kafka | Spark | PostgreSQL</strong></p>
-          <p>High-throughput real-time data processing pipeline with advanced analytics capabilities.</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">🔍 Computer Vision Suite</h3>
-        <div align="center">
-          <a href="#" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=jagadeshchilla&repo=cv-suite&theme=tokyonight&hide_border=true" width="100%" alt="Computer Vision"/>
-          </a>
-          <br>
-          <p><strong>👁️ YOLO | OpenCV | PyTorch</strong></p>
-          <p>Comprehensive computer vision toolkit for object detection, segmentation, and recognition.</p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <a href="https://github.com/jagadeshchilla?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/View%20All%20Projects-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="View More Projects" />
-  </a>
-</div>
-
----
-
-<h2 align="center">📈 AI/ML Project Progress</h2>
-
-<div align="center">
-
-| 🎯 Project | 🏷️ Category | 🛠️ Tech Stack | 📊 Progress |
-|------------|-------------|---------------|-------------|
-| **Generative AI Platform** | LLMs & GenAI | OpenAI, LangChain, FastAPI | ![Progress](https://progress-bar.dev/92/?title=92%25&width=120&color=00D9FF) |
-| **MLOps Automation** | DevOps & ML | Docker, K8s, MLflow | ![Progress](https://progress-bar.dev/88/?title=88%25&width=120&color=FF6B6B) |
-| **Agentic AI Framework** | Multi-Agent | CrewAI, AutoGen | ![Progress](https://progress-bar.dev/85/?title=85%25&width=120&color=4ECDC4) |
-| **Big Data Pipeline** | Data Engineering | Spark, Kafka, Informatica | ![Progress](https://progress-bar.dev/90/?title=90%25&width=120&color=45B7D1) |
-| **Computer Vision API** | Deep Learning | PyTorch, YOLO, OpenCV | ![Progress](https://progress-bar.dev/87/?title=87%25&width=120&color=96CEB4) |
-
-</div>
-
----
-
-<h2 align="center">🏗️ System Architecture</h2>
-
-<div align="center">
-
-```mermaid
-graph TB
-    A[Data Sources] --> B[Data Ingestion Layer]
-    B --> C[Stream Processing]
-    B --> D[Batch Processing]
-    
-    C --> E[Real-time Analytics]
-    D --> F[Data Warehouse]
-    
-    E --> G[ML Models]
-    F --> G
-    
-    G --> H[Model Serving]
-    H --> I[API Gateway]
-    I --> J[Applications]
-    
-    K[MLOps Pipeline] --> G
-    L[Monitoring] --> G
-    L --> H
-    
-    style A fill:#FF6B6B
-    style G fill:#4ECDC4
-    style H fill:#45B7D1
-    style I fill:#96CEB4
-```
-
-</div>
-
----
-
 <h2 align="center">🔗 Let's Connect & Collaborate</h2>
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jagadeshchilla)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/jagadeshchilla)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jagadeshchilla)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jagadeshchilla@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chilla-jagadesh-532246223/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jagadeshchilla/jagadeshchilla)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chillajagadesh68@gmail.com)
 
 </div>
 
