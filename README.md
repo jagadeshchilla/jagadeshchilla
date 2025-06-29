@@ -61,10 +61,12 @@ mindmap
         Python
         FastAPI
         Flask
+        Django
       APIs
       Databases
         PostgreSQL
         MongoDB
+        MySQL
         Firebase
     Data Science
       Data Analysis
@@ -75,7 +77,6 @@ mindmap
         Seaborn
         Plotly
       Statistical Analysis
-        R
         Statistics
     Big Data
       SQL
@@ -85,10 +86,9 @@ mindmap
       Stream Processing
         Apache Spark
         Apache Kafka
-        Apache Flink
-      Data Warehousing
-        Snowflake
-        Databricks
+        Apache Hive
+      Data Integration
+        Informatica
     Machine Learning
       Classical ML
         scikit-learn
@@ -117,16 +117,40 @@ mindmap
         RNNs/LSTMs
         GANs
         Autoencoders
+    Generative AI
+      LLM Platforms
+        OpenAI
+        ChatGPT
+        Gemini
+        Grok
+      AI Tools
+        Perplexity
+        DeepSeek
+        Hugging Face
+        Ollama
+      Frameworks
+        LangChain
+        LlamaIndex
     MLOps
-      Version Control
-        Git
-        GitHub
-      CI/CD
-        Jenkins
-        GitHub Actions
-      Model Management
+      Experiment Tracking
         MLflow
+        Weights & Biases
+        Neptune
+        ClearML
+      Workflow Orchestration
+        Apache Airflow
+        Prefect
+        Kubeflow
+      Data Management
         DVC
+        Feast
+        Great Expectations
+        Evidently
+      CI/CD
+        Git
+        GitHub Actions
+        Azure Pipelines
+        Jenkins
       Containerization
         Docker
         Kubernetes
